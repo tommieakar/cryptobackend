@@ -1,0 +1,6 @@
+update python2.7:
+http://wooyaa.me/archives/Update-python
+no ssl module:
+http://www.cnblogs.com/yuechaotian/archive/2013/06/03/3115472.html
+pip:
+pip install package --user
