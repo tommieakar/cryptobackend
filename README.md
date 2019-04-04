@@ -8,8 +8,7 @@ cryptobackend run in a server, it fetchs marketdata from exchanges, and send it 
 data from the ip:port and show in the ui. Also, the real arb trading program can get it to send trading signal.
 
 see the real data:
-
-
+download the demo.rar, see the README of https://github.com/nickhuangxinyu/CryptoUI
 
 system:
 both windows and linux are fine, since it's a python project.
