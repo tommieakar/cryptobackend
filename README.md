@@ -7,6 +7,10 @@ how it works with CryptoUI (https://github.com/nickhuangxinyu/CryptoUI)
 cryptobackend run in a server, it fetchs marketdata from exchanges, and send it in a fixed port(for now, 42001), then the ui can get
 data from the ip:port and show in the ui. Also, the real arb trading program can get it to send trading signal.
 
+see the real data:
+
+
+
 system:
 both windows and linux are fine, since it's a python project.
 python2.7
