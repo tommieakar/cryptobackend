@@ -25,10 +25,12 @@ python server.py
 it will occupy port 40021 in your computer.
 
 Author:
+
 XinYu Huang
 
 any questions or suggestions are welcome, please contract me with:huangxy17@fudan.edu.cn, i will list your name here to thanks for
 your contribution.
 
 Thanks list:
+
 1.Allen Lee(from fudan university)
