@@ -28,5 +28,5 @@ your contribution.
 
 ### Thanks list:
 
-* Allen Lee(from fudan university): exchange api accesser
+* Allen Lee(from fudan university): exchange api developer
 * Von lam(CEO of XX hedge fund): fund supporter and strategy consultant
